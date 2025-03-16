@@ -24,7 +24,7 @@
 ## Использование
 
 Веб-страница доступна для просмотра в любом веб-браузере.  
-[Ссылка на **GitHub Pages**](https://yandex-practicum-projects.github.io/russian-travel/)  
+[Ссылка на **GitHub Pages**](https://ukamai.github.io/russian-travel/)  
 
 ## Благодарности
 
