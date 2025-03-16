@@ -1,0 +1,17 @@
+.popup__image {
+    background-image: url(../../../images/mirror.jpg);
+    max-width: 565px;
+    height: 343px;
+    margin: 0 102px 197px;
+    position: relative;
+    display: block;
+    background-size: cover;
+}
+
+
+@media screen and (max-width: 750px) {
+    .popup__image {
+        margin: 0 50px 20px 20px;
+        height: 150px;
+    }
+}

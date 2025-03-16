@@ -1,0 +1,10 @@
+.comments__grup {
+    flex-basis: 382px;
+}
+@media screen and (max-width: 816px) {
+    .comments__grup {
+        display: flex;
+        flex-direction: column;
+        align-items: center;      
+    }
+}

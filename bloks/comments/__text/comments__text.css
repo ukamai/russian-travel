@@ -1,0 +1,16 @@
+.comments__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 42px 0 24px;
+    order: 3;
+}
+
+@media screen and (max-width: 816px) {
+    .comments__text {
+        font-size: 16px;
+        line-height: 23px;
+        margin: 24px 0 0;
+    }
+}
+

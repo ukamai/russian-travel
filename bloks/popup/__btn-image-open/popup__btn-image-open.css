@@ -1,0 +1,20 @@
+.popup__btn-image-open {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000;
+    margin: 0 102px 179px;
+    display: block;
+}
+
+@media screen and (max-width: 750px) {
+    .popup__btn-image-open {
+        margin: 0 20px 40px;
+        font-size: 14px;
+    }
+}
+
+.popup__btn-image-open:hover {
+    opacity: 0.6;
+}

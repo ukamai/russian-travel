@@ -1,0 +1,21 @@
+.header__about-project {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+@media screen and (max-width: 750px) {
+    .header__about-project {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .header__about-project {
+        font-size: 15px;
+    }
+}
+.header__about-project:hover{
+    opacity: 0.8;
+}
